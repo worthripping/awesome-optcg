@@ -14,6 +14,7 @@ Awesome list of One Piece Trading Card Game resources
 - [Deck Meta](#deck-meta)
 - [Stores](#stores)
 - [Card Pricing/Tracking](#card-pricingtracking)
+
 - [Reddit](#reddit)
 - [Twitter](#twitter)
 - [Customs](#customs)
@@ -154,6 +155,8 @@ Used to register for official events.
 - [Walgreens](https://www.walgreens.com/)
 
 ### Card Pricing/Tracking
+
+[Worth Ripping](https://worthripping.com/) - Compares One Piece booster box prices with modeled pull value after selling costs; includes 22 TCGs.
 
 [Collectr](https://app.getcollectr.com/) - Card database, tracker, and pricing
 
